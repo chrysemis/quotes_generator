@@ -104,6 +104,27 @@ var quotes = [
   }, {
     "quote": "It does not do to dwell on dreams and forget to live.",
     "author": "J.K. Rowling"
+  }, {
+	  "quote": "Never give up, and good luck will find you.",
+	  "author": "Falcor"
+  }, {
+	  "quote": "If you want to change the future, start living as if you’re already there.",
+	  "author": "Lynn Conway"
+  }, {
+	  "quote": "The closest a person ever comes to perfection is when he fills out a job application form.",
+	  "author": "Businessman Stanley Randall"
+  }, {
+	  "quote": "Be yourself; everyone else is already taken.",
+	  "author": "Oscar Wilde"
+  }, {
+	  "quote": "Whenever I feel the need to exercise, I lie down until it goes away.",
+	  "author": "Paul Terry"
+  }, {
+	  "quote": "I'm not afraid of death; I just don't want to be there when it happens.",
+	  "author": "Woody Allen"
+  }, {
+	  "quote": "A clever person solves a problem. A wise person avoids it.",
+	  "author": "Albert Einstein"
   }
   
 ];
